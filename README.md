@@ -1,3 +1,3 @@
 # README.md
 
-## Excusrion Codecademy project
+## Excursion Codecademy project
